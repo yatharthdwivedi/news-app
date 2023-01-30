@@ -93,7 +93,7 @@ export class News extends Component {
         <div className="rounded mx-auto d-block">{this.state.loading && <Spinner/>}</div>
          
         <div className="row ">
-        {!this.state.loading && this.state.articles.map((element) => {
+        {!this.state.loading && this.state.articles?.map((element) => {
           return <div className="col-md-4 my-2 " key={element.url}>
           <NewsItems
             title={element.title}
