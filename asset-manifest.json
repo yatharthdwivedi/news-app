@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/news-app/static/css/main.073c9b0a.css",
-    "main.js": "/github.io/news-app/static/js/main.ad387350.js",
-    "static/js/787.66a4299e.chunk.js": "/github.io/news-app/static/js/787.66a4299e.chunk.js",
-    "static/media/spin.gif": "/github.io/news-app/static/media/spin.9c7cd866c7fa25391ccd.gif",
-    "index.html": "/github.io/news-app/index.html",
-    "main.073c9b0a.css.map": "/github.io/news-app/static/css/main.073c9b0a.css.map",
-    "main.ad387350.js.map": "/github.io/news-app/static/js/main.ad387350.js.map",
-    "787.66a4299e.chunk.js.map": "/github.io/news-app/static/js/787.66a4299e.chunk.js.map"
+    "main.css": "/news-app/static/css/main.073c9b0a.css",
+    "main.js": "/news-app/static/js/main.3b32238b.js",
+    "static/js/787.66a4299e.chunk.js": "/news-app/static/js/787.66a4299e.chunk.js",
+    "static/media/spin.gif": "/news-app/static/media/spin.9c7cd866c7fa25391ccd.gif",
+    "index.html": "/news-app/index.html",
+    "main.073c9b0a.css.map": "/news-app/static/css/main.073c9b0a.css.map",
+    "main.3b32238b.js.map": "/news-app/static/js/main.3b32238b.js.map",
+    "787.66a4299e.chunk.js.map": "/news-app/static/js/787.66a4299e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ad387350.js"
+    "static/js/main.3b32238b.js"
   ]
 }
